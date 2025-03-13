@@ -15,6 +15,9 @@ On remarque donc que : <br>
     - Le DataSet contient des valeurs manquantes tels que l'âge (177 valeurs manquantes), Cabin (204 valeurs sur 891), Embarked (2 valeurs manquantes).
 
 
+J'ai donc par la suite, comblé les valeurs manquantes grâce à [ce code :](vmanquantes.py).<br>
+
+
 
 
   
