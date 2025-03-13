@@ -4,7 +4,7 @@
 🛳️
 
 ### **Exploration :**
-**J'ai d'abord commencé par explorer le data set grâce à [ce code :](exploration.py).**<br>
+**J'ai d'abord commencé par explorer le data set grâce à [ce code :](exploration.py).<br>**
 Grâce à ce code nous pouvons visualiser les 5 premières lignes, le nombre de lignes et de colonnes présentes dans le DataSet, voir si il y a des Valeurs manquantes, le type de données...
 
 Voici l'output du code : ![Exploration](Exploration%20.png)
