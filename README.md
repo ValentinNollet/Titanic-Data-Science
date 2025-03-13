@@ -29,7 +29,7 @@ Nous pouvons donc voir qu'il n'y a plus de valeurs manquantes dans le DataSet : 
 
 ### **Analyse**
 
-**Une fois les données propres, j'ai pu analyser celles-ci grâce à [ce code :](analyse.py).**<br>
+**Une fois les données propres, j'ai pu analyser celles-ci grâce à [ce code :](Analyse.py).**<br>
 
 
 
