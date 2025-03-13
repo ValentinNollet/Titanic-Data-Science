@@ -7,10 +7,10 @@
 **J'ai d'abord commencé par explorer le data set grâce à [ce code :](exploration.py).<br>**<br>
 
 Ce code permet de :  
-✔️ Afficher les 5 premières lignes du dataset
-✔️ Vérifier le nombre de lignes et de colonnes
-✔️ Identifier les valeurs manquantes
-✔️ Connaître le type des données
+✔️ Afficher les 5 premières lignes du dataset  
+✔️ Vérifier le nombre de lignes et de colonnes  
+✔️ Identifier les valeurs manquantes  
+✔️ Connaître le type des données  
 
 Voici l'output du code : ![Exploration](Exploration%20.png)
 
@@ -25,9 +25,9 @@ On remarque donc que : <br>
 ### **Valeurs Manquantes :**
 **J'ai donc par la suite, comblé les valeurs manquantes grâce à [ce code :](vmanquantes.py).<br>**
 
-🔹 Âge : Remplacé par la médiane de l’âge des passagers de la même classe.
-🔹 Cabine : Valeurs manquantes remplacées par "Unknown".
-🔹 Embarquement : Les 2 valeurs manquantes remplacées par le port d’embarquement le plus fréquent. <br>
+🔹 Âge : Remplacé par la médiane de l’âge des passagers de la même classe.  
+🔹 Cabine : Valeurs manquantes remplacées par "Unknown".  
+🔹 Embarquement : Les 2 valeurs manquantes remplacées par le port d’embarquement le plus fréquent. <br>  
 
 Après ces corrections, le dataset ne contient plus de valeurs manquantes.
 
