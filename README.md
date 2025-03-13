@@ -42,7 +42,7 @@ Voici les graphiques obtenues : <br>
 - Graphique 1 : On Remarque donc bien plus de décès que de survivants.
 - Graphique 2 : Les femmes ont eu un taux de survie bien plus élevé que les hommes, et donc la majorité des hommes n'ont pas survécu.
 - Graphique 3 : Les passagers de la 1ère classe ont le plus haut taux de survie. en 2ème classe, le taux de survie est plus équilibré entre surviants et non-survivants. En 3ème classe, il y a eu beaucoup plus de décès que de survivants. Cela nous montre que la classe sociale a eu un impact important. 
-- 
+- Graphique 4-5 : Pour les survivants ont retrouve des pics pour à 1ans / 25ans / 35ans. Pour les non-survivants il y a une certaines homogénéité mais on retrouve un pics vers 25ans.
 
 
 
