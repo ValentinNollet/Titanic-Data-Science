@@ -17,6 +17,9 @@ On remarque donc que : <br>
 
 J'ai donc par la suite, comblé les valeurs manquantes grâce à [ce code :](vmanquantes.py).<br>
 
+Grâce à ce code, j'ai remplacé les âges manquants par la médiane de l'âge des passagers de la même classe, j'ai remplacé les Cabins manquants par "Unknown" et j'ai remplacé les 2 valuers manquantes de Embarked par la valuer la plus fréquente.
+Nous pouvons donc voir qu'il n'y a plus de valeurs manquantes dans le DataSet : ![Vmanquantes](vmanquantes.png)
+
 
 
 
