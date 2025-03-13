@@ -32,11 +32,11 @@ Nous pouvons donc voir qu'il n'y a plus de valeurs manquantes dans le DataSet : 
 **Une fois les données propres, j'ai pu analyser celles-ci grâce à [ce code :](Analyse.py).**<br>
 
 Voici les graphiques obtenues : 
-[1](Répartition%20des%20survivants.png)
-[2](Survie%20en%20fonction%20du%20sex.png)
-[3](Survie%20en%20fonction%20de%20la%20classe.png)
-[4](Survie%20en%20fonction%20de%20l'age.png)
-[5](Décès%20en%20fonction%20de%20l'age.png)
+![1](Répartition%20des%20survivants.png)
+![2](Survie%20en%20fonction%20du%20sex.png)
+![3](Survie%20en%20fonction%20de%20la%20classe.png)
+![4](Survie%20en%20fonction%20de%20l'age.png)
+![5](Décès%20en%20fonction%20de%20l'age.png)
 
 
 
