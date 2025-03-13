@@ -37,7 +37,17 @@ Voici les graphiques obtenues : <br>
 ![2](Survie%20en%20fonction%20de%20sex.png)
 ![3](Survie%20en%20fonction%20de%20la%20classe.png)
 ![4](Survie%20en%20fonction%20de%20l'age.png)
-![5](Décès%20en%20fonctionn%20de%20l'age.png)
+![5](Décès%20en%20fonctionn%20de%20l'age.png)  
+
+- Graphique 1 : On Remarque donc bien plus de décès que de survivants.
+- Graphique 2 : Les femmes ont eu un taux de survie bien plus élevé que les hommes, et donc la majorité des hommes n'ont pas survécu.
+- Graphique 3 : Les passagers de la 1ère classe ont er le plus haut taux de surive
+
+
+
+
+
+
 
 
 
