@@ -17,7 +17,7 @@ Voici l'output du code : ![Exploration](Exploration%20.png)
 On remarque donc que : <br>
 - Le DataSet contient 891 lignes et 12 colonnes.<br>
 - Le DataSet contient 3 Types de données différentes : Int64, float64 et object.<br>
-- L'âge moyen à bord du titanic est de 29,7ans, le tarif moyen des billets est de 32,20, majorité des passagers se situe en 3ème classe...<br>
+- L'âge moyen à bord du Titanic est de 29,7 ans, le tarif moyen des billets est de 32,20, majorité des passagers se situe en 3ème classe...<br>
 - Le DataSet contient des valeurs manquantes telles que l'âge (177 valeurs manquantes), Cabin (204 valeurs sur 891), Embarked (2 valeurs manquantes).<br>
 
 <br>
