@@ -4,7 +4,7 @@
 🛳️
 
 ### **Exploration :**
-**J'ai d'abord commencé par explorer le data set grâce à [ce code :](exploration.py).<br>**<br>
+**J'ai d'abord commencé par explorer le data set grâce à [ce code :](exploration.py)<br>**<br>
 
 Ce code permet de :  
 ✔️ Afficher les 5 premières lignes du dataset  
