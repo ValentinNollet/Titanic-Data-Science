@@ -23,11 +23,11 @@ On remarque donc que : <br>
 <br>
 
 ### **Valeurs Manquantes :**
-**J'ai donc par la suite, comblé les valeurs manquantes grâce à [ce code :](vmanquantes.py).<br>**
+**J'ai donc par la suite, comblé les valeurs manquantes grâce à [ce code :](vmanquantes.py)<br>**
 
-🔹 Âge : Remplacé par la médiane de l’âge des passagers de la même classe.  
-🔹 Cabine : Valeurs manquantes remplacées par "Unknown".  
-🔹 Embarquement : Les 2 valeurs manquantes remplacées par le port d’embarquement le plus fréquent. <br>  
+🔹 Âge : remplacé par la médiane de l’âge des passagers de la même classe.  
+🔹 Cabine : valeurs manquantes remplacées par "Unknown".  
+🔹 Embarquement : les 2 valeurs manquantes remplacées par le port d’embarquement le plus fréquent. <br>  
 
 Après ces corrections, le dataset ne contient plus de valeurs manquantes.
 
@@ -37,7 +37,7 @@ Après ces corrections, le dataset ne contient plus de valeurs manquantes.
 
 ### **Analyse**
 
-**Une fois les données propres, j'ai pu analyser celles-ci grâce à [ce code :](Analyse.py).**<br>
+**Une fois les données propres, j'ai pu analyser celles-ci grâce à [ce code :](Analyse.py)**<br>
 
 Voici les graphiques obtenues : <br> 
 
